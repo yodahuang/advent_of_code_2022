@@ -1,0 +1,2 @@
+[workspace]
+members = ["calorie_counting"]
